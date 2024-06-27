@@ -1,7 +1,8 @@
-## Hi My name is Abdur Rehman👋
-
-🌱 I’m currently learning AI and Machine Learning 
-💬 Ask me about AI ,Machine Learning and also Mobile App Development
+<h2 align="center">
+  Hi My name is Abdur Rehman👋
+</h2>
+🌱 I’m currently learning AI and Machine Learning <br>
+💬 Ask me about AI ,Machine Learning and also Mobile App Development<br>
 ⚡ Fun fact: I Reply faster than you think
 <!--
 **Abdurrehman4u/Abdurrehman4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
