@@ -54,11 +54,6 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrehman4u&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-### 🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdurrehman4u&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 
 ## 🤝 Let's Connect!
 
@@ -66,11 +61,5 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehman.malik2006@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdurrehman4u&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
