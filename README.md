@@ -45,9 +45,6 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
   <img src="https://streak-stats.demolab.com/?user=Abdurrehman4u&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrehman4u&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=7200" alt="Top Languages" />
-</div>
 
 ### 📈 Contribution Graph
 <div align="center">
