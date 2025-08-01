@@ -41,7 +41,7 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abduurehman4u&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdurrehman4u&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurrehman4u&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
