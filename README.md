@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Abdur Rehman! 👋
 
 ## 🚀 About Me
-I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist** with hands-on experience in building end-to-end ML pipelines and deploying AI solutions in production. Completed my **BSc Computer Science** at Superior University, Lahore, I specialize in transforming complex AI concepts into real-world applications.
+I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist** with hands-on experience in building end-to-end ML pipelines and deploying AI solutions in production. Completed my **BSc Computer Science**. I specialize in transforming complex AI concepts into real-world applications.
 
 - 🔭 I'm currently working as a **ML-1 Engineer** 
 - 🌱 I'm diving deep into **Computer Vision**, **NLP**, and **Generative AI**
