@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist** with hands-on experience in building end-to-end ML pipelines and deploying AI solutions in production. Completed my **BSc Computer Science** at Superior University, Lahore, I specialize in transforming complex AI concepts into real-world applications.
 
-- 🔭 I'm currently working as a **ML-1 Engineer** at Sens Viz
+- 🔭 I'm currently working as a **ML-1 Engineer** 
 - 🌱 I'm diving deep into **Computer Vision**, **NLP**, and **Generative AI**
 - 💬 Ask me about **YOLO**, **CNNs**, **TensorFlow**, **OpenCV**, or **Model Optimization**
 - 📫 How to reach me: **abdurrehman.malik2006@gmail.com**
